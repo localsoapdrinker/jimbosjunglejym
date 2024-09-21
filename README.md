@@ -1,6 +1,7 @@
 # Jimbo's Jungle Jym
 *A fast-paced platformer with a focus on skills and movement techniques!*<br>
-![Untitled-1](https://github.com/user-attachments/assets/e00ad843-9751-4f8f-a22b-295fcf612bf1)<br>
+![Untitled](https://github.com/user-attachments/assets/347941d9-6257-46fa-86ab-3c2fcd0995d6)
+<br>
 Self proclaimed "cool dude with a chill mood" and the owner of a gym (in the middle of the woods?).<br>
 He's always wearing his cap, shoes, shades, and *especially* his high-grip climbing gloves, which enable him to climb up even the steepest cliffs!<br>
 His skills include... climbing and jumping. *He put that on a resume?*<br><br>
